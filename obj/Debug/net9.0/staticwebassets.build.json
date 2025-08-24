@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PfJRkFLPzWNsixDgJxY7LnVAXKgQlDwLFek3nZJIz5U=",
+  "Source": "SmartInventoryTracker",
+  "BasePath": "_content/SmartInventoryTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

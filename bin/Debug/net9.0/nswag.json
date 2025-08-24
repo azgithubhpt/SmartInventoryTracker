@@ -1,0 +1,21 @@
+{
+    "runtime": "Net90",
+    "documentGenerator": {
+      "aspNetCoreToOpenApi": {
+        "project": "SmartInventoryTracker.csproj",
+        "aspNetCoreEnvironment": "Development",
+        "output": "swagger.json"
+      }
+    },
+    "codeGenerators": {
+      "openApiToCSharpClient": {
+        "generateClientClasses": true,
+        "generateClientInterfaces": true,
+        "injectHttpClient": true,
+        "disposeHttpClient": false,
+        "output": "../ClientProject/Generated/InventoryClient.g.cs",
+        "contractsOutputFilePath": "../ClientProject/Generated/InventoryContracts.g.cs"
+      }
+    }
+  }
+  
